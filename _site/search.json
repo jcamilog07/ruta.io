@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-14T12:09:03-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "RUTA DE EMPLEABILIDAD",
+      "description": "Bienvenidos a la empleabilidad\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-10-14T12:15:09-05:00"
+    }
+  ],
+  "collections": []
+}
